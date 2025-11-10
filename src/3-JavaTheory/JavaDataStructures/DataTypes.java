@@ -1,3 +1,4 @@
+package JavaDataStructures;
 public class DataTypes {
 
     public static void PrimitiveVariables () {
