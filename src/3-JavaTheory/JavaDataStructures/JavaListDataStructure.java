@@ -37,6 +37,7 @@ public class JavaListDataStructure {
 
     void LinkedListProperties(){
         // Better for add elements, is only necesary to change a pointer reference in one node for create it
+        // Is not good for access to the elements like the ArrayList
         LinkedList<Integer> linkedList = new LinkedList<Integer>();
         linkedList.addFirst(1);
         linkedList.addLast(2);
