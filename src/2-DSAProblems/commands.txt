@@ -1,0 +1,3 @@
+cd to path
+javac Excercise.java
+java Excercise
